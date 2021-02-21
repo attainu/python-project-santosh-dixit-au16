@@ -78,7 +78,8 @@ Note:
 
 If the user tries to leave the form incomplete while entering information during booking, the system asks him to fill in that  missing entry before proceeding further.
 
-For the user who cloning the file from github:
+
+For the user who is cloning the file from github:
 
 When any user is cloning the the file from github then for execution of the program he must execute the car_appointment.py first and on the basis of that choices the operation will be preformed.
 
