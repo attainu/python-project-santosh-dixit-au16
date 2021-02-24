@@ -3,6 +3,7 @@
 We all often use the online car booking facility  to navigate from one place to another in our day to day life. This python based application is an effort to simulate the car booking system which we use in our daily lives. 
 
 
+
 ##Main functionality of this  code:
 
 1. Letting a user create a car ride booking and register himself
@@ -11,7 +12,6 @@ We all often use the online car booking facility  to navigate from one place to 
 4. Updating car ride location and user information
 5. Deleting a booking from the system
 6. Seeing all the bookings with respective booking number
-
 
 
 
@@ -33,7 +33,6 @@ This module implements code to facilitate viewing all bookings made by clients w
 
 
 
-
 ##Packages used:
 
 1. Tkinter package
@@ -41,7 +40,6 @@ PIP package to implement Graphical User Interface - GUI
 
 2. SQL lite 
 Package to implement simple in-disk database to store booking and client records without the need of any external server.
-
 
 
 
