@@ -1,9 +1,9 @@
-Car Booking System:
+#Car Booking System:
 
 We all often use the online car booking facility  to navigate from one place to another in our day to day life. This python based application is an effort to simulate the car booking system which we use in our daily lives. 
 
 
-Main functionality of this  code:
+##Main functionality of this  code:
 
 1. Letting a user create a car ride booking and register himself
 2. Storing logs and booking history
@@ -15,7 +15,7 @@ Main functionality of this  code:
 
 
 
-Python files:
+##Python files:
 
 1. car_appointment.py
 
@@ -34,7 +34,7 @@ This module implements code to facilitate viewing all bookings made by clients w
 
 
 
-Packages used:
+##Packages used:
 
 1. Tkinter package
 PIP package to implement Graphical User Interface - GUI
@@ -45,7 +45,7 @@ Package to implement simple in-disk database to store booking and client records
 
 
 
-Technologies used:
+##Technologies used:
 
 1. Python
 The main programming language in which whole coding has been done.
@@ -55,37 +55,37 @@ Programming language to manage queries for database.
 
 
 
-Concept used:
+##Concept used:
 
 1. OOP – Object Oriented Programming.
 2. Modular programming
 
 
 
-Extra Features:
+##Extra Features:
 
 GUI – Graphical User Interface implementation
 
 
 
-Minimum system requirements:
+##Minimum system requirements:
 
 Python 3  or  higher version  with PIP – Python Installer Package
 
 
 
-Note:
+##Note:
 
 If the user tries to leave the form incomplete while entering information during booking, the system asks him to fill in that  missing entry before proceeding further.
 
 
-For the user who is cloning the file from github:
+##For the user who is cloning the file from github:
 
 When any user is cloning the the file from github then for execution of the program he must execute the car_appointment.py first and on the basis of that choices the operation will be preformed.
 
 
 
-Future aspects and further scope of improvements:
+##Future aspects and further scope of improvements:
 
 1. The system could be made more real time based application by adding features such as GPS synchronization and maps.
 2. Security features such as user authentication and user authorization to address privacy concerns and user data protection could be implemented and added to the system.
